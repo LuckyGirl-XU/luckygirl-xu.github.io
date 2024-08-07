@@ -31,16 +31,6 @@ My research interests include large graph processing and graph neural networks.
 <span class='anchor' id='pubs'></span>
 
 # 📝 Publications 
----
-layout: default
-permalink: /publications/
-title: ""
-excerpt: ""
-author_profile: False
----
-
-
-# Publication List
 
 11\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [PDF](https://ieeexplore.ieee.org/document/10597745)
 
