@@ -28,7 +28,7 @@ My research interests include large graph processing and graph neural networks.
 - *2024.02*: &nbsp;🎉🎉 One Paper is accepted to ICDE 2024. 
 - *2024.01*: &nbsp;🎉🎉 One Paper is accepted to The Web Conference 2024. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 [TimeSGN: Scalable and Effective Temporal Graph Neural Network](https://ieeexplore.ieee.org/document/10597745)
 
 **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
@@ -41,6 +41,14 @@ My research interests include large graph processing and graph neural networks.
 
 Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
+[Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)
+
+Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
+
+[To avoid the pitfall of missing labels in feature selection: A generative model gives the answer](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)
+
+**Yuanyuan Xu**, Jun Wang, Jinmao Wei
+
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,7 +60,7 @@ Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -62,7 +70,11 @@ Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Activities
+-  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024;
+-  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024;
+-  ACM SIGKDD: 2025;
+-  APWeb-WAIM Conference: 2024.
+
