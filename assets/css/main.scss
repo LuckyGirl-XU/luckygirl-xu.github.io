@@ -107,3 +107,22 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.publications-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2em 0;
+}
+
+.publications-content h1,
+.publications-content h2,
+.publications-content h3,
+.publications-content p {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0.5em 0;
+}
