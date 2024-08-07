@@ -7,7 +7,7 @@ main:
     url: "/#news"
 
   - title: "Publications"
-    url: "/_pages/pub.html"
+    url: "/pub/pub.html"
 
   - title: "Professional Activities"
     url: "/#professional-activities"
