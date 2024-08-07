@@ -89,6 +89,7 @@ Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Professional Activities
+## Program Committee member / Reviewer
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024;
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024;
 -  ACM SIGKDD: 2025;
