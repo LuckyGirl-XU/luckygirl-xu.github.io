@@ -22,7 +22,7 @@ Welcome! I am currently a PhD student at the University of New South Wales, supe
 My research interests include large graph processing and graph neural networks. 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One Paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems. 
 - *2024.02*: &nbsp;🎉🎉 One Paper is accepted to ICDE 2024. 
@@ -73,7 +73,7 @@ My research interests include large graph processing and graph neural networks.
  &nbsp;&nbsp;&nbsp;&nbsp;📍 AAAI 2020
 
 
-
+<span class='anchor' id='professional-activities'></span>
 # 💻 Professional Activities
 ### Program Committee member / Reviewer
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024;
