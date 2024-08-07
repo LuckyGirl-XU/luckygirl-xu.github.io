@@ -7,7 +7,7 @@ main:
     url: "/#news"
 
   - title: "Publications"
-    url: "/#pubs"  <!--"../publications/" -->
+    url: "/#pubs" 
 
   - title: "Professional Activities"
     url: "/#professional-activities"
