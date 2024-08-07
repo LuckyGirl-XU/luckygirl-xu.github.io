@@ -2,9 +2,9 @@
 
 10\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [PDF](https://ieeexplore.ieee.org/document/10597745)
 
-    **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
+   **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
 
-    📍 IEEE International Conference on Data Engineering (ICDE 2024)
+   📍 IEEE International Conference on Data Engineering (ICDE 2024)
 
 
 9\. **Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry** [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)
@@ -61,6 +61,6 @@
 
 1\. **Semi-supervised multi-label feature selection by preserving feature-label space consistency**
    
-    **Yuanyuan Xu**, Jun Wang, Shuai An, Jinmao Wei, Jianhua Ruan
+   **Yuanyuan Xu**, Jun Wang, Shuai An, Jinmao Wei, Jianhua Ruan
    
-    📍 ACM international conference on information and knowledge management (CIKM 2018)
+   📍 ACM international conference on information and knowledge management (CIKM 2018)
