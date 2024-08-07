@@ -29,40 +29,50 @@ My research interests include large graph processing and graph neural networks.
 - *2024.01*: &nbsp;🎉🎉 One Paper is accepted to The Web Conference 2024. 
 
 # 📝 Selected Publications 
-[TimeSGN: Scalable and Effective Temporal Graph Neural Network](https://ieeexplore.ieee.org/document/10597745)
+**TimeSGN: Scalable and Effective Temporal Graph Neural Network**
 
 **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
 
 📍 ICDE 2024
 
+[PDF](https://ieeexplore.ieee.org/document/10597745)
 
-[Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)
+
+**Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry**
 
 **Yuanyuan Xu**, Wenjie Zhang, Xiwei Xu, Binghao Li, Ying Zhang
 
 📍 IEEE Transactions on Neural Networks and Learning Systems
 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)
 
-[Query2gmm: Learning representation with gaussian mixture model for reasoning over knowledge graphs](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)
+
+**Query2gmm: Learning representation with gaussian mixture model for reasoning over knowledge graphs**
 
 Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
 📍 The Web Conference 2024
 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)
 
-[Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)
+
+
+**Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach**
 
 Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
 
 📍 PVLDB 2024
 
+[PDF](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)
 
-[To avoid the pitfall of missing labels in feature selection: A generative model gives the answer](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)
+
+**To avoid the pitfall of missing labels in feature selection: A generative model gives the answer**
 
 **Yuanyuan Xu**, Jun Wang, Jinmao Wei
 
 📍 AAAI 2020
 
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)
 
 
 <!--
