@@ -33,21 +33,37 @@ My research interests include large graph processing and graph neural networks.
 
 **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
 
+ICDE 2024
+
+
 [Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)
 
 **Yuanyuan Xu**, Wenjie Zhang, Xiwei Xu, Binghao Li, Ying Zhang
+
+IEEE Transactions on Neural Networks and Learning Systems
+
 
 [Query2gmm: Learning representation with gaussian mixture model for reasoning over knowledge graphs](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)
 
 Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
+The Web Conference 2024
+
+
 [Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)
 
 Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
 
+VLDB 2024
+
+
 [To avoid the pitfall of missing labels in feature selection: A generative model gives the answer](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)
 
 **Yuanyuan Xu**, Jun Wang, Jinmao Wei
+
+AAAI 2020
+
+
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
