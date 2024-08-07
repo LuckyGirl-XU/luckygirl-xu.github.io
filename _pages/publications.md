@@ -61,6 +61,6 @@
 
 1\. **Semi-supervised multi-label feature selection by preserving feature-label space consistency**
    
-      **Yuanyuan Xu**, Jun Wang, Shuai An, Jinmao Wei, Jianhua Ruan
+    **Yuanyuan Xu**, Jun Wang, Shuai An, Jinmao Wei, Jianhua Ruan
    
-      📍 ACM international conference on information and knowledge management (CIKM 2018)
+    📍 ACM international conference on information and knowledge management (CIKM 2018)
