@@ -68,9 +68,15 @@ author_profile: False
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Yu Yin, Jun Wang, Jinmao Wei, Jian Liu, Lina Yao, Wenjie Zhang
 
-   &nbsp;&nbsp;&nbsp;&nbsp; 📍Knowledge-Based Systems
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Knowledge-Based Systems
 
 <p></p>
+
+3\. **An effective multi-label feature selection model towards eliminating noisy features**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Jun Wang, **Yuanyuan Xu**, Hengpeng Xu, Zhe Sun, Zhenglu Yang, Jinmao Wei
+
+&nbsp;&nbsp;&nbsp;&nbsp; 📍 Applied Sciences
 
 2\. **To avoid the pitfall of missing labels in feature selection: A generative model gives the answer** [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)
 
