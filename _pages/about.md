@@ -30,8 +30,10 @@ My research interests include large graph processing and graph neural networks.
 
 # 📝 Publications 
 [TimeSGN: Scalable and Effective Temporal Graph Neural Network](https://ieeexplore.ieee.org/document/10597745)
-
 **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
+
+[Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)
+**Yuanyuan Xu**, Wenjie Zhang, Xiwei Xu, Binghao Li, Ying Zhang
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
