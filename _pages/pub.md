@@ -6,7 +6,7 @@ author_profile: False
 ---
 
 
-# Publications
+# Publication List
 
 11\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [PDF](https://ieeexplore.ieee.org/document/10597745)
 
