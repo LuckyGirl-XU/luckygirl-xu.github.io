@@ -54,7 +54,7 @@ The Web Conference 2024
 
 Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
 
-VLDB 2024
+PVLDB 2024
 
 
 [To avoid the pitfall of missing labels in feature selection: A generative model gives the answer](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)
