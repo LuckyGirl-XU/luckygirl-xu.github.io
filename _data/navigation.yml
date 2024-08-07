@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-about-me"
+    url: "/#news"
 
   - title: "Publications"
     url: "/pub.html"
 
   - title: "Professional Activities"
-    url: "/#-about-me"
+    url: "/#professional-activities"
