@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /pub/
+  - /pub.html
+---
+
 # Publications
 
 10\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [PDF](https://ieeexplore.ieee.org/document/10597745)
