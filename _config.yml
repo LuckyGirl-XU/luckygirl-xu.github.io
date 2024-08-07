@@ -130,7 +130,7 @@ defaults:
       path: ""
       type: index
     values:
-      layout: home
+      layout: about
       author_profile: true
 
 
