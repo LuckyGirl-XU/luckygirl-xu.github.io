@@ -25,8 +25,8 @@ My research interests include large graph processing and graph neural networks.
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One Paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems. 
-- *2024.02*: &nbsp;🎉🎉 One Paper is accepted to ICDE 2024. 
-- *2024.01*: &nbsp;🎉🎉 One Paper is accepted to The Web Conference 2024. 
+- *2024.02*: &nbsp;🎉🎉 One Paper is accepted to the ICDE 2024. 
+- *2024.01*: &nbsp;🎉🎉 One Paper is accepted to the Web Conference 2024. 
 
 <span class='anchor' id='pubs'></span>
 
@@ -120,7 +120,7 @@ My research interests include large graph processing and graph neural networks.
 
 <span class='anchor' id='professional-activities'></span>
 # 💻 Professional Activities
-### Program Committee member / Reviewer:
+### Program Committee Member / Reviewer:
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024;
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024;
 -  ACM SIGKDD: 2025;
