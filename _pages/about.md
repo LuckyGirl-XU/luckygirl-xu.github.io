@@ -124,6 +124,7 @@ My research interests include large graph processing and graph neural networks.
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024;
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024;
 -  ACM SIGKDD: 2025;
+-  ACM The Web Conference (WWW): 2025;
 -  International Conference on Learning Representations (ICLR): 2025;
 -  APWeb-WAIM Conference: 2024;
 -  Internet of Things.
