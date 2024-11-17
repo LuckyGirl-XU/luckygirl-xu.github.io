@@ -32,7 +32,7 @@ My research interests include large graph processing and graph neural networks.
 
 <span class='anchor' id='pubs'></span>
 
-# 📝 Publications  <sub>(*: Co-first author; #: Corresponding author) </sub>
+# 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
 
 12\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [PDF]
 
