@@ -92,7 +92,7 @@ My research interests include large graph processing and graph neural networks.
 
 5\. **Learning Accurate Label-Specific Features From Partially Multilabeled Data**
 
-   &nbsp;&nbsp;&nbsp;&nbsp; Tiantian Xu, **Yuanyuan Xu\#**, Shiyu Yang, Binghao Li, Wenjie Zhang
+   &nbsp;&nbsp;&nbsp;&nbsp; Tiantian Xu, **Yuanyuan Xu<sup>#</sup>**, Shiyu Yang, Binghao Li, Wenjie Zhang
 
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 IEEE Transactions on Neural Networks and Learning Systems
 
