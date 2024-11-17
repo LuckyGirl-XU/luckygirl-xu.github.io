@@ -32,7 +32,15 @@ My research interests include large graph processing and graph neural networks.
 
 <span class='anchor' id='pubs'></span>
 
-# 📝 Publications 
+# 📝 Publications
+
+12\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [PDF]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xiwei Xu, Xuemin Lin
+
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
+
+<p></p>
 
 11\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [PDF](https://ieeexplore.ieee.org/document/10597745)
 
