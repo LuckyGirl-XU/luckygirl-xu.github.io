@@ -58,7 +58,7 @@ My research interests include large graph processing and graph neural networks.
 
 <p></p>
 
-9\. **Query2gmm: Learning representation with gaussian mixture model for reasoning over knowledge graphs** [PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)
+9\. **Query2gmm: Learning representation with Gaussian mixture model for reasoning over knowledge graphs** [PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
@@ -117,7 +117,7 @@ My research interests include large graph processing and graph neural networks.
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Jun Wang, Jinmao Wei
 
-   &nbsp;&nbsp;&nbsp;&nbsp;📍 AAAI 2020
+   &nbsp;&nbsp;&nbsp;&nbsp;📍 Association for the Advancement of Artificial Intelligence (AAAI 2020)
 
 <p></p>
 
