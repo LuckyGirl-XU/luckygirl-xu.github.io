@@ -140,6 +140,6 @@ My research interests include large graph processing and graph neural networks.
 -  APWeb-WAIM Conference: 2024;
 -  Internet of Things.
 
-![Profile Views](https://komarev.com/ghpvc/?username=luckygirl-xu&color=blue)
+![Visit Count](https://komarev.com/ghpvc/?username=luckygirl-xu&color=9400D3)
 
 
