@@ -25,10 +25,10 @@ My research interests include large graph processing and graph neural networks.
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2024.11*: &nbsp; 👏👏 One Paper is accepted to the SIGKDD 2025. 
-- *2024.02*: &nbsp; 👏👏 One Paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems. 
-- *2024.02*: &nbsp; 👏👏 One Paper is accepted to the ICDE 2024. 
-- *2024.01*: &nbsp; 👏👏 One Paper is accepted to the Web Conference 2024. 
+- *2024.11*: &nbsp; One Paper is accepted to the SIGKDD 2025. 👏👏 
+- *2024.02*: &nbsp; One Paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems. 👏👏
+- *2024.02*: &nbsp; One Paper is accepted to the ICDE 2024. 👏👏
+- *2024.01*: &nbsp; One Paper is accepted to the Web Conference 2024. 👏👏
 
 <span class='anchor' id='pubs'></span>
 
