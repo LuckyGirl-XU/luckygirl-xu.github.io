@@ -25,6 +25,7 @@ My research interests include large graph processing and temporal graph neural n
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *2025.01*: &nbsp; One Paper is accepted to the Web Conference 2025. 👏👏 
 - *2024.11*: &nbsp; One Paper is accepted to the SIGKDD 2025. 👏👏 
 - *2024.02*: &nbsp; One Paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems. 👏👏
 - *2024.02*: &nbsp; One Paper is accepted to the ICDE 2024. 👏👏
@@ -34,6 +35,12 @@ My research interests include large graph processing and temporal graph neural n
 
 # 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
 
+12\. **Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach** [PDF]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu\#**, Xuemin Lin, Wenjie Zhang, Ying Zhang
+
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference 2025
+<p></p>   
 12\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [PDF]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xiwei Xu, Xuemin Lin
