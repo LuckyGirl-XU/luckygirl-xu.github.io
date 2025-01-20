@@ -146,6 +146,7 @@ My research interests include large graph processing and temporal graph neural n
 -  International Conference on Learning Representations (ICLR): 2025;
 -  AISTATS 2025;
 -  APWeb-WAIM Conference: 2024;
+-  Knowledge-based Systems;
 -  Internet of Things.
 
 
