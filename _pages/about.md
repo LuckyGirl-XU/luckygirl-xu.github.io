@@ -39,7 +39,7 @@ My research interests include large graph processing and temporal graph neural n
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu<sup>#</sup>**, Xuemin Lin, Wenjie Zhang, Ying Zhang
 
-   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference 2025
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2025)
 <p></p>   
 12\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [PDF]
 
@@ -69,7 +69,7 @@ My research interests include large graph processing and temporal graph neural n
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
-   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference 2024
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2024)
 
 <p></p>
 
