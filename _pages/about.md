@@ -35,7 +35,7 @@ My research interests include large graph processing and temporal graph neural n
 
 # 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
 
-12\. **Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach** [PDF]
+13\. **Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach** [PDF]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu<sup>#</sup>**, Xuemin Lin, Wenjie Zhang, Ying Zhang
 
