@@ -31,6 +31,15 @@ My research interests include large graph processing and temporal graph neural n
 - *2024.02*: &nbsp; One Paper is accepted to the ICDE 2024. 👏👏
 - *2024.01*: &nbsp; One Paper is accepted to the Web Conference 2024. 👏👏
 
+<span class='anchor' id='preprint'></span>
+
+# 🔖 Preprints
+
+1\. **AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models** [[PDF](https://arxiv.org/abs/2502.13626)]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Hanchen Wang, Wenjie Zhang, Lexing Xie, Yin Chen, Flora Salim, Ying Zhang, Justin Gooding, Toby Walsh
+   
+
 <span class='anchor' id='pubs'></span>
 
 # 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
