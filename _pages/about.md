@@ -35,6 +35,9 @@ My research interests include large graph processing and temporal graph neural n
 
 # 🔖 Preprints
 
+2\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://arxiv.org/abs/2502.16431)]
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xuemin Lin, Ying Zhang
+
 1\. **AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models** [[PDF](https://arxiv.org/abs/2502.13626)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Hanchen Wang, Wenjie Zhang, Lexing Xie, Yin Chen, Flora Salim, Ying Zhang, Justin Gooding, Toby Walsh
