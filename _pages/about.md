@@ -35,6 +35,10 @@ My research interests include large graph processing and temporal graph neural n
 
 # 🔖 Preprints
 
+3\. **Unlocking Multi-Modal Potentials for Dynamic Text-Attributed Graph Representation** [[PDF](https://arxiv.org/abs/2502.19651)]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
+
 2\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://arxiv.org/abs/2502.16431)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xuemin Lin, Ying Zhang
