@@ -56,6 +56,7 @@ My research interests include large graph processing and temporal graph neural n
 14\. **Assessing Solar-to-PV Power Conversion Models: Physical, ML, and Hybrid Approaches Across Diverse Scales**
 
    &nbsp;&nbsp;&nbsp;&nbsp; Caixia Li, **Yuanyuan Xu**, Minglang Xie, Pengfei Zhang, Bohan Zhang, Bo Xiao, Sujun Zhang, Ziheng Liu, Wenjie Zhang, Xiaojing Hao
+
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 Energy Journal
 <p></p>  
 
