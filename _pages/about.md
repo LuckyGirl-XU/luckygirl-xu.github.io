@@ -25,6 +25,7 @@ My research interests include large graph processing and temporal graph neural n
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *2025.03*: &nbsp; One Paper is accepted to the Energy Journal. 👏👏 
 - *2025.01*: &nbsp; One Paper is accepted to the Web Conference 2025. 👏👏 
 - *2024.11*: &nbsp; One Paper is accepted to the SIGKDD 2025. 👏👏 
 - *2024.02*: &nbsp; One Paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems. 👏👏
@@ -51,6 +52,12 @@ My research interests include large graph processing and temporal graph neural n
 <span class='anchor' id='pubs'></span>
 
 # 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
+
+14\. **Assessing Solar-to-PV Power Conversion Models: Physical, ML, and Hybrid Approaches Across Diverse Scales**
+
+   &nbsp;&nbsp;&nbsp;&nbsp; Caixia Li, **Yuanyuan Xu**, Minglang Xie, Pengfei Zhang, Bohan Zhang, Bo Xiao, Sujun Zhang, Ziheng Liu, Wenjie Zhang, Xiaojing Hao
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Energy Journal
+<p></p>  
 
 13\. **Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach** [PDF]
 
