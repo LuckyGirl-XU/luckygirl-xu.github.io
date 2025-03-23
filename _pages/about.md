@@ -53,7 +53,7 @@ My research interests include large graph processing and temporal graph neural n
 
 # 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
 
-14\. **Assessing Solar-to-PV Power Conversion Models: Physical, ML, and Hybrid Approaches Across Diverse Scales**
+14\. **Assessing Solar-to-PV Power Conversion Models: Physical, ML, and Hybrid Approaches Across Diverse Scales** [[PDF](https://doi.org/10.1016/j.energy.2025.135744)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Caixia Li, **Yuanyuan Xu**, Minglang Xie, Pengfei Zhang, Bohan Zhang, Bo Xiao, Sujun Zhang, Ziheng Liu, Wenjie Zhang, Xiaojing Hao
 
@@ -75,7 +75,7 @@ My research interests include large graph processing and temporal graph neural n
 
 <p></p>
 
-11\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [PDF](https://ieeexplore.ieee.org/document/10597745)
+11\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [[PDF](https://ieeexplore.ieee.org/document/10597745)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
 
@@ -83,7 +83,7 @@ My research interests include large graph processing and temporal graph neural n
 
 <p></p>
 
-10\. **Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry** [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)
+10\. **Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry** [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xiwei Xu, Binghao Li, Ying Zhang
 
@@ -91,7 +91,7 @@ My research interests include large graph processing and temporal graph neural n
 
 <p></p>
 
-9\. **Query2gmm: Learning representation with Gaussian mixture model for reasoning over knowledge graphs** [PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)
+9\. **Query2gmm: Learning representation with Gaussian mixture model for reasoning over knowledge graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
@@ -99,7 +99,7 @@ My research interests include large graph processing and temporal graph neural n
 
 <p></p>
 
-8\. **Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach** [PDF](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)
+8\. **Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach** [[PDF](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
 
@@ -107,7 +107,7 @@ My research interests include large graph processing and temporal graph neural n
 
 <p></p>
 
-7\. **A Holistic Approach for Answering Logical Queries on Knowledge Graphs** [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184571)
+7\. **A Holistic Approach for Answering Logical Queries on Knowledge Graphs** [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184571)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yuhan Wu\*, **Yuanyuan Xu\***, Xuemin Lin, Wenjie Zhang
 
@@ -146,7 +146,7 @@ My research interests include large graph processing and temporal graph neural n
 &nbsp;&nbsp;&nbsp;&nbsp; 📍 Applied Sciences
 <p></p>
 
-2\. **To avoid the pitfall of missing labels in feature selection: A generative model gives the answer** [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)
+2\. **To avoid the pitfall of missing labels in feature selection: A generative model gives the answer** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Jun Wang, Jinmao Wei
 
