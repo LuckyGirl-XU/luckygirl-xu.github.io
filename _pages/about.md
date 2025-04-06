@@ -67,7 +67,7 @@ My research interests include large graph processing and temporal graph neural n
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2025)
 <p></p>  
 
-12\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [PDF]
+12\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [[PDF](https://dl.acm.org/doi/10.1145/3690624.3709327)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xiwei Xu, Xuemin Lin
 
