@@ -25,6 +25,7 @@ My research interests include large graph processing and temporal graph neural n
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *2025.05*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
 - *2025.03*: &nbsp; One Paper is accepted to the Energy Journal. 👏👏 
 - *2025.01*: &nbsp; One Paper is accepted to the Web Conference 2025. 👏👏 
 - *2024.11*: &nbsp; One Paper is accepted to the SIGKDD 2025. 👏👏 
@@ -36,13 +37,10 @@ My research interests include large graph processing and temporal graph neural n
 
 # 🔖 Preprints
 
-3\. **Unlocking Multi-Modal Potentials for Dynamic Text-Attributed Graph Representation** [[PDF](https://arxiv.org/abs/2502.19651)]
+2\. **Unlocking Multi-Modal Potentials for Dynamic Text-Attributed Graph Representation** [[PDF](https://arxiv.org/abs/2502.19651)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
 
-2\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://arxiv.org/abs/2502.16431)]
-
-   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xuemin Lin, Ying Zhang
 
 1\. **AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models** [[PDF](https://arxiv.org/abs/2502.13626)]
 
@@ -52,6 +50,13 @@ My research interests include large graph processing and temporal graph neural n
 <span class='anchor' id='pubs'></span>
 
 # 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
+
+15\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://arxiv.org/abs/2502.16431)]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xuemin Lin, Ying Zhang
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 IEEE Transactions on Knowledge and Data Engineering
+<p></p> 
+
 
 14\. **Assessing Solar-to-PV Power Conversion Models: Physical, ML, and Hybrid Approaches Across Diverse Scales** [[PDF](https://doi.org/10.1016/j.energy.2025.135744)]
 
