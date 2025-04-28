@@ -54,6 +54,7 @@ My research interests include large graph processing and temporal graph neural n
 15\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://arxiv.org/abs/2502.16431)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xuemin Lin, Ying Zhang
+   
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 IEEE Transactions on Knowledge and Data Engineering
 <p></p> 
 
