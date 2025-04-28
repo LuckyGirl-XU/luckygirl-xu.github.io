@@ -25,7 +25,7 @@ My research interests include large graph processing and temporal graph neural n
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2025.05*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
+- *2025.04*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
 - *2025.03*: &nbsp; One Paper is accepted to the Energy Journal. 👏👏 
 - *2025.01*: &nbsp; One Paper is accepted to the Web Conference 2025. 👏👏 
 - *2024.11*: &nbsp; One Paper is accepted to the SIGKDD 2025. 👏👏 
