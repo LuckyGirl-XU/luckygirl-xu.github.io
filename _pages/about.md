@@ -25,7 +25,8 @@ My research interests include large graph processing and temporal graph neural n
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2025.06*: &nbsp; I receive the Google Conference Scholarship! Thanks to the Google Australia Research Programs Team.
+- *2025.06*: &nbsp; I receive the KDD 2025 Student Travel Award! 🎉🎉
+- *2025.06*: &nbsp; I receive the Google Conference Scholarship! Thanks to the Google Australia Research Programs Team. 🎉🎉
 - *2025.04*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
 - *2025.03*: &nbsp; One Paper is accepted to the Energy Journal. 👏👏 
 - *2025.01*: &nbsp; One Paper is accepted to the Web Conference 2025. 👏👏 
