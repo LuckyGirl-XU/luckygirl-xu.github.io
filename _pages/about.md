@@ -23,17 +23,13 @@ My research interests include large graph processing and temporal graph neural n
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 <span class='anchor' id='news'></span>
-# 🔥 News
+# 🔥 News (2025 Onwards)
 
 - *2025.06*: &nbsp; I receive the KDD 2025 Student Travel Award! 🎉🎉
 - *2025.06*: &nbsp; I receive the Google Conference Scholarship! Thanks to the Google Australia Research Programs Team. 🎉🎉
 - *2025.04*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
 - *2025.03*: &nbsp; One Paper is accepted to the Energy Journal. 👏👏 
 - *2025.01*: &nbsp; One Paper is accepted to the Web Conference 2025. 👏👏 
-- *2024.11*: &nbsp; One Paper is accepted to the SIGKDD 2025. 👏👏 
-- *2024.02*: &nbsp; One Paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems. 👏👏
-- *2024.02*: &nbsp; One Paper is accepted to the ICDE 2024. 👏👏
-- *2024.01*: &nbsp; One Paper is accepted to the Web Conference 2024. 👏👏
 
 <span class='anchor' id='preprint'></span>
 
