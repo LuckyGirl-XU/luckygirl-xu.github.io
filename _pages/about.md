@@ -20,6 +20,9 @@ redirect_from:
 Welcome! I am currently a PhD candidate at the University of New South Wales, supervised by Professor [Wenjie Zhang](https://cgi.cse.unsw.edu.au/~zhangw/), Professor [Xuemin Lin](https://www.acem.sjtu.edu.cn/en/faculty/linxuemin.html), and Professor [Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang).
 
 My research interests include large graph processing, temporal graph neural networks, and LLM for dynamic graphs. 
+
+📣📣 We maintain a curated list of papers on dynamic graph learning on [GitHub](https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning). If you’re interested, we'd love to have your contributions!
+
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 <span class='anchor' id='news'></span>
