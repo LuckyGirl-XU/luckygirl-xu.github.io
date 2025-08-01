@@ -40,7 +40,7 @@ My research interests include large graph processing, temporal graph neural netw
 
 # 🔖 Preprints
 
-2\. **Unlocking Multi-Modal Potentials for Dynamic Text-Attributed Graph Representation** [[PDF](https://arxiv.org/abs/2502.19651)]
+2\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [PDF]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
 
