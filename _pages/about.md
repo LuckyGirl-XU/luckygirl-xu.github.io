@@ -171,8 +171,8 @@ My research interests include large graph processing, temporal graph neural netw
 
 
 <span class='anchor' id='professional-activities'></span>
-# 💻 Professional Activities
-### Program Committee Member / Reviewer:
+# 💻 Academic Services
+### Program Committee Member:
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024, 2025;
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025;
 -  International Conference on Machine Learning (ICML): 2025 
@@ -180,8 +180,10 @@ My research interests include large graph processing, temporal graph neural netw
 -  ACM The Web Conference (WWW): 2025, 2026;
 -  International Conference on Learning Representations (ICLR): 2025;
 -  Annual AAAI Conference on Artificial Intelligence (AAAI): 2026;
--  AISTATS 2025;
+-  AISTATS 2025, 2026;
 -  APWeb-WAIM Conference: 2024;
+  
+### Journal Reviewer
 -  Knowledge-based Systems;
 -  Internet of Things.
 
