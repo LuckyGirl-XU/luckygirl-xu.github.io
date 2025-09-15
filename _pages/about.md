@@ -170,7 +170,7 @@ My research interests include large graph processing, temporal graph neural netw
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 ACM international conference on information and knowledge management (CIKM 2018)
 
 
-<span class='anchor' id='professional-activities'></span>
+<span class='anchor' id='academic-services'></span>
 # 💻 Academic Services
 ### Program Committee Member:
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024, 2025;
@@ -187,12 +187,12 @@ My research interests include large graph processing, temporal graph neural netw
 -  Knowledge-based Systems;
 -  Internet of Things.
 
-<span class='anchor' id='Teaching'></span>
+<span class='anchor' id='teaching'></span>
 # 📚 Teaching
 ### Tutor
 - Database Systems (COMP9311) @ UNSW
 
-<span class='anchor' id='awards'></span>
+<span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 - KDD 2025 Student Travel Award
 - Google Conference Scholarship
