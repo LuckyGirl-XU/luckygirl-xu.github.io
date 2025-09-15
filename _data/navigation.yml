@@ -12,9 +12,9 @@ main:
   - title: "Academic Services"
     url: "/#academic-services"
 
- - title: "Teaching"
+  - title: "Teaching"
     url: "/#teaching"
 
-- title: "Honors"
+  - title: "Honors"
     url: "/#honors-awards"
 
