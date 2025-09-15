@@ -9,5 +9,12 @@ main:
   - title: "Publications"
     url: "/#pubs" 
 
-  - title: "Professional Activities"
-    url: "/#professional-activities"
+  - title: "Academic Services"
+    url: "/#academic-services"
+
+ - title: "Teaching"
+    url: "/#teaching"
+
+- title: "Honors & Awards"
+    url: "/#honors-awards"
+
