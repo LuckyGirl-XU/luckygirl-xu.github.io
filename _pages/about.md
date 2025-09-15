@@ -183,7 +183,7 @@ My research interests include large graph processing, temporal graph neural netw
 -  AISTATS: 2025, 2026;
 -  APWeb-WAIM Conference: 2024;
   
-### Journal Reviewer
+### Journal Reviewer:
 -  Knowledge-based Systems;
 -  Internet of Things.
 
@@ -192,6 +192,7 @@ My research interests include large graph processing, temporal graph neural netw
 ### Tutor
 - Database Systems (COMP9311) @ UNSW
 
+<span class='anchor' id='awards'></span>
 # 🏆 Honors & Awards
 - KDD 2025 Student Travel Award
 - Google Conference Scholarship
