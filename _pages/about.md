@@ -190,5 +190,11 @@ My research interests include large graph processing, temporal graph neural netw
 ### Tutor
 - Database Systems (COMP9311) @ UNSW
 
+# 🏆 Honors & Awards
+- KDD 2025 Student Travel Award
+- Google Conference Scholarship
+- Outstanding Master’s Thesis Award @ Nankai University
+- National Scholarship of China
+
 
 
