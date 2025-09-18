@@ -191,6 +191,7 @@ My research interests include large graph processing, temporal graph neural netw
 # 📚 Teaching
 ### Tutor
 - Database Systems (COMP9311) @ UNSW
+- Machine Learning @ Nankai University
 
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
