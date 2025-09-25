@@ -181,6 +181,7 @@ My research interests include large graph processing, temporal graph neural netw
 -  International Conference on Learning Representations (ICLR): 2025, 2026;
 -  Annual AAAI Conference on Artificial Intelligence (AAAI): 2026;
 -  AISTATS: 2025, 2026;
+-  Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD): 2026;
 -  APWeb-WAIM Conference: 2024;
   
 ### Journal Reviewer:
