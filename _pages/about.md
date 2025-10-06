@@ -186,6 +186,7 @@ My research interests include large graph processing, temporal graph neural netw
   
 ### Journal Reviewer:
 -  Knowledge-based Systems;
+-  Neural Networks;
 -  Internet of Things.
 
 <span class='anchor' id='teaching'></span>
