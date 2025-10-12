@@ -53,6 +53,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='pubs'></span>
 
 # 📝 Publications  <small>(*: Co-first author; #: Corresponding author) </small>
+<u><code>*/# also denotes the student I mentored.</code></u>
 
 15\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://ieeexplore.ieee.org/document/10981615)]
 
