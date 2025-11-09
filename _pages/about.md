@@ -56,7 +56,7 @@ My research interests include large graph processing, temporal graph neural netw
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
    
-   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Annual AAAI Conference on Artificial Intelligence (AAAI 2026) &nbsp;&nbsp; 💡 <u><font color="purple">Oral</font></u>
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Annual AAAI Conference on Artificial Intelligence (AAAI 2026) &nbsp;&nbsp; 💡 <u>**<font color="purple">Oral</font>**</u>
 <p></p> 
 
 
