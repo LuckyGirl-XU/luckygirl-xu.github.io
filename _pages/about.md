@@ -30,6 +30,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='news'></span>
 # 🔥 News (2025 Onwards)
 
+- *2025.11*: &nbsp; One paper is accepted to AAAI 2026 as an oral presentation. 👏👏 
 - *2025.06*: &nbsp; I receive the KDD 2025 Student Travel Award! 🎉🎉
 - *2025.06*: &nbsp; I receive the Google Conference Scholarship! Thanks to the Google Australia Research Programs Team. 🎉🎉
 - *2025.04*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
@@ -39,10 +40,6 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='preprint'></span>
 
 # 🔖 Preprints
-
-2\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [PDF]
-
-   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
 
 
 1\. **AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models** [[PDF](https://arxiv.org/abs/2502.13626)]
@@ -54,6 +51,13 @@ My research interests include large graph processing, temporal graph neural netw
 
 # 📝 Publications 
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; also denotes the student I mentored.</code></u>
+
+16\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [PDF]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
+   
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Annual AAAI Conference on Artificial Intelligence (AAAI 2026) [💡 Oral] 
+<p></p> 
 
 
 15\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://ieeexplore.ieee.org/document/10981615)]
