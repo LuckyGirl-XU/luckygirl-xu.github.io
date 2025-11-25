@@ -182,7 +182,7 @@ My research interests include large graph processing, temporal graph neural netw
 ### Program Committee Member:
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024, 2025;
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025;
--  International Conference on Machine Learning (ICML): 2025 
+-  International Conference on Machine Learning (ICML): 2025;
 -  ACM SIGKDD: 2025, 2026;
 -  ACM The Web Conference (WWW): 2025, 2026;
 -  International Conference on Learning Representations (ICLR): 2025, 2026;
@@ -194,6 +194,7 @@ My research interests include large graph processing, temporal graph neural netw
 ### Journal Reviewer:
 -  Knowledge-based Systems;
 -  Neural Networks;
+-  Neurocomputing;
 -  Internet of Things.
 
 <span class='anchor' id='teaching'></span>
