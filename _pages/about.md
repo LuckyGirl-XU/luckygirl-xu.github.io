@@ -30,7 +30,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='news'></span>
 # 🔥 News (2025 Onwards)
 
-- *2025.12*: &nbsp; One paper is accepted to the PVLDB 2026. 👏👏 
+- *2025.12*: &nbsp; One paper is accepted to the VLDB 2026. 👏👏 
 - *2025.11*: &nbsp; I receive the AAAI-26 Scholarship & Volunteer Award! 🎉🎉
 - *2025.11*: &nbsp; One paper is accepted to the AAAI 2026 as an oral presentation. 👏👏 
 - *2025.06*: &nbsp; I receive the KDD 2025 Student Travel Award! 🎉🎉
@@ -127,7 +127,7 @@ My research interests include large graph processing, temporal graph neural netw
 
    &nbsp;&nbsp;&nbsp;&nbsp; Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
 
-   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Proceedings of the VLDB Endowment (PVLDB 2024)
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Proceedings of the VLDB Endowment (VLDB 2024)
 
 <p></p>
 
