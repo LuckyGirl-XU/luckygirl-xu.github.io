@@ -119,7 +119,7 @@ My research interests include large graph processing, temporal graph neural netw
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
-   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2024)
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2024) &nbsp;&nbsp; 💡 <u><font color="purple">Oral</font></u>
 
 <p></p>
 
