@@ -30,8 +30,9 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='news'></span>
 # 🔥 News (2025 Onwards)
 
+- *2025.12*: &nbsp; One paper is accepted to the PVLDB 2026. 👏👏 
 - *2025.11*: &nbsp; I receive the AAAI-26 Scholarship & Volunteer Award! 🎉🎉
-- *2025.11*: &nbsp; One paper is accepted to AAAI 2026 as an oral presentation. 👏👏 
+- *2025.11*: &nbsp; One paper is accepted to the AAAI 2026 as an oral presentation. 👏👏 
 - *2025.06*: &nbsp; I receive the KDD 2025 Student Travel Award! 🎉🎉
 - *2025.06*: &nbsp; I receive the Google Conference Scholarship! Thanks to the Google Australia Research Programs Team. 🎉🎉
 - *2025.04*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
@@ -52,6 +53,13 @@ My research interests include large graph processing, temporal graph neural netw
 
 # 📝 Publications 
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; also denotes the student I mentored.</code></u>
+
+17\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [PDF]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; Danni Wu\*, **Yuanyuan Xu\***, Xuemin Lin, Wenjie Zhang, Ying Zhang
+   
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 Proceedings of the VLDB Endowment (VLDB 2026) 
+<p></p> 
 
 16\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [[PDF](https://arxiv.org/pdf/2502.19651v2)]
 
