@@ -197,6 +197,10 @@ My research interests include large graph processing, temporal graph neural netw
 -  Neurocomputing;
 -  Internet of Things.
 
+### Conference Organizer:
+-  Session Chair, Australasian Database Conference: 2025.
+
+
 <span class='anchor' id='teaching'></span>
 # 📚 Teaching
 ### Tutor
