@@ -28,16 +28,13 @@ My research interests include large graph processing, temporal graph neural netw
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 <span class='anchor' id='news'></span>
-# 🔥 News (2025 Onwards)
+# 🔥 News (2026 Onwards)
 
-- *2025.12*: &nbsp; One paper is accepted to the VLDB 2026. 👏👏 
-- *2025.11*: &nbsp; I receive the AAAI-26 Scholarship & Volunteer Award! 🎉🎉
-- *2025.11*: &nbsp; One paper is accepted to the AAAI 2026 as an oral presentation. 👏👏 
-- *2025.06*: &nbsp; I receive the KDD 2025 Student Travel Award! 🎉🎉
-- *2025.06*: &nbsp; I receive the Google Conference Scholarship! Thanks to the Google Australia Research Programs Team. 🎉🎉
-- *2025.04*: &nbsp; One Paper is accepted to the TKDE Journal. 👏👏 
-- *2025.03*: &nbsp; One Paper is accepted to the Energy Journal. 👏👏 
-- *2025.01*: &nbsp; One Paper is accepted to the Web Conference 2025. 👏👏 
+- *2026.01*: &nbsp; Happy New Year! 🎊🎊
+<!--- *2025.12*: &nbsp; One paper is accepted to the VLDB 2026. 👏👏 -->
+<!---- *2025.11*: &nbsp; I receive the AAAI-26 Scholarship & Volunteer Award! 🎉🎉 -->
+
+
 
 <span class='anchor' id='preprint'></span>
 
