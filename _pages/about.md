@@ -49,7 +49,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='pubs'></span>
 
 # 📝 Publications 
-<code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; also denotes the student I mentored.</code></u>
+<code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast;, &#35; also denote the student I mentored.</code></u>
 
 17\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [PDF]
 
@@ -146,7 +146,7 @@ My research interests include large graph processing, temporal graph neural netw
 
 5\. **Learning Accurate Label-Specific Features From Partially Multilabeled Data**
 
-   &nbsp;&nbsp;&nbsp;&nbsp; Tiantian Xu, **Yuanyuan Xu<sup>#</sup>**, Shiyu Yang, Binghao Li, Wenjie Zhang
+   &nbsp;&nbsp;&nbsp;&nbsp; Tiantian Xu, **Yuanyuan Xu**, Shiyu Yang, Binghao Li, Wenjie Zhang
 
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 IEEE Transactions on Neural Networks and Learning Systems
 
