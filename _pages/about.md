@@ -49,7 +49,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='pubs'></span>
 
 # 📝 Publications 
-<code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast;, &#35; also denote the student I mentored.</code></u>
+<code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>|&ast; + &#35; also denote the student I mentored.</code></u>
 
 17\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [PDF]
 
