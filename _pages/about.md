@@ -200,6 +200,7 @@ My research interests include large graph processing, temporal graph neural netw
 -  Knowledge-based Systems;
 -  Neural Networks;
 -  Neurocomputing;
+-  Pattern Recognition;
 -  Internet of Things.
 
 ### Conference Organizer:
