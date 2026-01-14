@@ -30,6 +30,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='news'></span>
 # 🔥 News (2026 Onwards)
 
+- *2026.01*: &nbsp; One paper is accepted to the Web Conference 2026. 👏👏
 - *2026.01*: &nbsp; Happy New Year! 🎊🎊
 <!--- *2025.12*: &nbsp; One paper is accepted to the VLDB 2026. 👏👏 -->
 <!---- *2025.11*: &nbsp; I receive the AAAI-26 Scholarship & Volunteer Award! 🎉🎉 -->
@@ -50,6 +51,13 @@ My research interests include large graph processing, temporal graph neural netw
 
 # 📝 Publications 
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
+
+18\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [PDF]
+
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Danni Wu, Xuemin Lin, Dong Wen, Wenjie Zhang, Lei Chen, Ying Zhang
+   
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2026)
+<p></p> 
 
 17\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [PDF]
 
