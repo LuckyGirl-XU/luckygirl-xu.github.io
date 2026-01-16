@@ -224,7 +224,9 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 - AAAI-26 Scholarship & Volunteer Award
+- University Nomination (Top 2) for Google PhD Fellowships 2025
 - KDD 2025 Student Travel Award
+- Development and Research Training Grant
 - Google Conference Scholarship
 - Outstanding Master’s Thesis Award @ Nankai University
 - National Scholarship of China
