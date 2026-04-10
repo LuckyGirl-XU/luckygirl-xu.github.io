@@ -52,7 +52,7 @@ My research interests include large graph processing, temporal graph neural netw
 # 📝 Publications 
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
 
-18\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [PDF]
+18\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Danni Wu, Xuemin Lin, Dong Wen, Wenjie Zhang, Lei Chen, Ying Zhang
    
