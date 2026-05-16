@@ -30,6 +30,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='news'></span>
 # 🔥 News (2026 Onwards)
 
+- *2026.05*: &nbsp; One paper is accepted to the SIGKDD 2026. 👏👏
 - *2026.01*: &nbsp; One paper is accepted to the Web Conference 2026. 👏👏
 - *2026.01*: &nbsp; Happy New Year! 🎊🎊
 <!--- *2025.12*: &nbsp; One paper is accepted to the VLDB 2026. 👏👏 -->
@@ -51,6 +52,12 @@ My research interests include large graph processing, temporal graph neural netw
 
 # 📝 Publications 
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
+
+19\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs**
+    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu\***, Xuemin Lin, Ying Zhang
+    
+    &nbsp;&nbsp;&nbsp;&nbsp; 📍 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
+<p></p> 
 
 18\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
 
