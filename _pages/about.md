@@ -55,9 +55,9 @@ My research interests include large graph processing, temporal graph neural netw
 
 19\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs**
     
-    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu\***, Xuemin Lin, Ying Zhang
+   &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu\***, Xuemin Lin, Ying Zhang
     
-    &nbsp;&nbsp;&nbsp;&nbsp; 📍 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
 <p></p> 
 
 18\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
