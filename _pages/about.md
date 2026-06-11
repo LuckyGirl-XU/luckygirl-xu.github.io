@@ -21,11 +21,14 @@ Welcome! I am currently a PhD candidate at the University of New South Wales, su
 
 My research interests include large graph processing, temporal graph neural networks, and LLM for dynamic graphs. 
 
+```html
 <h5>
-  <nobr>📣📣 We provide a comprehensive survey and introduce a new perspective for discussing **Self-Evolving Agents** and **Dynamic Graph Learning** on <a href="https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs.git">GitHub</a>. We welcome contributions from the community to help expand and improve our survey 🤗!
-    
-  <nobr>📣📣 We maintain a curated list of papers on dynamic graph learning on <a href="https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning">GitHub</a>. If you’re interested, we'd love to have your contributions!</nobr>
+  📣📣 We provide a comprehensive survey and introduce a new perspective for discussing <strong>Self-Evolving Agents as Dynamic Graph Transformation</strong> on <a href="https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs">GitHub</a>. We welcome contributions from the community to help expand and improve our survey 🤗!
+  <br><br>
+  📣📣 We also maintain a curated list of papers on dynamic graph learning on <a href="https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning">GitHub</a>. If you’re interested, we'd love to have your contributions!
 </h5>
+```
+
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
