@@ -23,6 +23,7 @@ My research interests include large graph processing, temporal graph neural netw
 
 <h5>
   <nobr>📣📣 we provide a comprehensive survey and introduce a new perspective for discussing Self-Evolving Agents as Dynamic Graph Transformation on <a href="https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs.git">GitHub</a>. We welcome contributions from the community to help expand and improve our survey 🤗!
+    
   <nobr>📣📣 We maintain a curated list of papers on dynamic graph learning on <a href="https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning">GitHub</a>. If you’re interested, we'd love to have your contributions!</nobr>
 </h5>
 
