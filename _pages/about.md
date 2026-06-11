@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome! I am currently a PhD candidate at the University of New South Wales, supervised by Professor [Wenjie Zhang](https://cgi.cse.unsw.edu.au/~zhangw/), Professor [Xuemin Lin](https://www.acem.sjtu.edu.cn/en/faculty/linxuemin.html), and Professor [Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang).
 
-My research interests include large graph processing, temporal graph neural networks, and LLM for dynamic graphs. 
+My research interests include large dynamic graph processing, temporal graph neural networks, LLM for dynamic graphs, and multi-agent systems. 
 
 
 <h5>
