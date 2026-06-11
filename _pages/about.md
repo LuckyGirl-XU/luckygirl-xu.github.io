@@ -22,6 +22,7 @@ Welcome! I am currently a PhD candidate at the University of New South Wales, su
 My research interests include large graph processing, temporal graph neural networks, and LLM for dynamic graphs. 
 
 <h5>
+  <nobr>📣📣 we provide a comprehensive survey and introduce a new perspective for discussing Self-Evolving Agents as Dynamic Graph Transformation on <a href="https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs.git">GitHub</a>. We welcome contributions from the community to help expand and improve our survey 🤗!
   <nobr>📣📣 We maintain a curated list of papers on dynamic graph learning on <a href="https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning">GitHub</a>. If you’re interested, we'd love to have your contributions!</nobr>
 </h5>
 
@@ -30,6 +31,7 @@ My research interests include large graph processing, temporal graph neural netw
 <span class='anchor' id='news'></span>
 # 🔥 News (2026 Onwards)
 
+- *2026.06*: &nbsp; Our paper ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [ResearchGate](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective/references). 🚀🚀 
 - *2026.05*: &nbsp; One paper is accepted to the SIGKDD 2026. 👏👏
 - *2026.01*: &nbsp; One paper is accepted to the Web Conference 2026. 👏👏
 - *2026.01*: &nbsp; Happy New Year! 🎊🎊
@@ -42,7 +44,10 @@ My research interests include large graph processing, temporal graph neural netw
 
 # 🔖 Preprints
 
+2\. **Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective** [[PDF](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective/references)]
 
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Yin Chen, Xuemin Lin, Ying Zhang
+   
 1\. **AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models** [[PDF](https://arxiv.org/abs/2502.13626)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Hanchen Wang, Wenjie Zhang, Lexing Xie, Yin Chen, Flora Salim, Ying Zhang, Justin Gooding, Toby Walsh
