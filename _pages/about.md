@@ -228,6 +228,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 -  Internet of Things.
 
 ### Conference Organizer:
+-  Session Chair, ACM The Web Conference (WWW): 2026;
 -  Session Chair, Australasian Database Conference: 2025.
 
 
