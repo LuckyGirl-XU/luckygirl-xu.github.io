@@ -208,6 +208,10 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <span class='anchor' id='academic-services'></span>
 # 💻 Academic Services
+### Conference Organizer:
+-  Session Chair, ACM The Web Conference (WWW): 2026;
+-  Session Chair, Australasian Database Conference: 2025.
+  
 ### Program Committee Member:
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024, 2025;
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025;
@@ -226,10 +230,6 @@ My research interests include large dynamic graph processing, temporal graph neu
 -  Neurocomputing;
 -  Pattern Recognition;
 -  Internet of Things.
-
-### Conference Organizer:
--  Session Chair, ACM The Web Conference (WWW): 2026;
--  Session Chair, Australasian Database Conference: 2025.
 
 
 <span class='anchor' id='teaching'></span>
