@@ -225,7 +225,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 -  APWeb-WAIM Conference: 2024;
   
 ### Journal Reviewer:
--  Transactions on Knowledge Discovery from Data
+-  Transactions on Knowledge Discovery from Data;
 -  Knowledge-based Systems;
 -  Neural Networks;
 -  Neurocomputing;
