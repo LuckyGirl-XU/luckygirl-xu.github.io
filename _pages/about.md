@@ -236,6 +236,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <span class='anchor' id='teaching'></span>
 # 📚 Teaching
 ### Tutor
+- Big Data Management (COMP9313) @ UNSW
 - Database Systems (COMP9311) @ UNSW
 - Machine Learning @ Nankai University
 
