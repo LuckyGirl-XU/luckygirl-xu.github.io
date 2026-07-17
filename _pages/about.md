@@ -226,6 +226,7 @@ My research interests include large dynamic graph processing, temporal graph neu
   
 ### Journal Reviewer:
 -  Transactions on Knowledge Discovery from Data;
+-  Transactions on Neural Networks and Learning Systems;
 -  Knowledge-based Systems;
 -  Neural Networks;
 -  Neurocomputing;
