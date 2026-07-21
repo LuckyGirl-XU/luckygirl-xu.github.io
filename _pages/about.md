@@ -211,6 +211,9 @@ My research interests include large dynamic graph processing, temporal graph neu
 ### Conference Organizer:
 -  Session Chair, ACM The Web Conference (WWW): 2026;
 -  Session Chair, Australasian Database Conference: 2025.
+
+### Area Chair:
+- Learning on Graphs Conference: 2026.
   
 ### Program Committee Member:
 -  International Joint Conference on Artificial Intelligence (IJCAI): 2021, 2022, 2024, 2025;
