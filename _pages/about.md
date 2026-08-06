@@ -63,35 +63,35 @@ My research interests include large dynamic graph processing, temporal graph neu
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
 
 
-20\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs**
+19\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs**
     
    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu<sup>#</sup>**, Xuemin Lin, Ying Zhang
     
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
 <p></p> 
 
-19\. **Temporal Bipartite Graph Representation Learning for Behavior Anomaly Detection**
+18\. **Temporal Bipartite Graph Representation Learning for Behavior Anomaly Detection**
     
    &nbsp;&nbsp;&nbsp;&nbsp; Yu Kong, **Yuanyuan Xu<sup>#</sup>**, Dong Wen, Yu Zhang, Binghao Li, and Wenjie Zhang
     
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 FLINS-ISKE 2026 
 <p></p> 
 
-18\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
+17\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Danni Wu, Xuemin Lin, Dong Wen, Wenjie Zhang, Lei Chen, Ying Zhang
    
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2026)
 <p></p> 
 
-17\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [PDF]
+16\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [PDF]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Danni Wu\*, **Yuanyuan Xu\***, Xuemin Lin, Wenjie Zhang, Ying Zhang
    
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 Proceedings of the VLDB Endowment (VLDB 2026) 
 <p></p> 
 
-16\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/39956)]
+15\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/39956)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
    
@@ -99,7 +99,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <p></p> 
 
 
-15\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://ieeexplore.ieee.org/document/10981615)]
+14\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://ieeexplore.ieee.org/document/10981615)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xuemin Lin, Ying Zhang
    
@@ -107,21 +107,21 @@ My research interests include large dynamic graph processing, temporal graph neu
 <p></p> 
 
 
-14\. **Assessing Solar-to-PV Power Conversion Models: Physical, ML, and Hybrid Approaches Across Diverse Scales** [[PDF](https://doi.org/10.1016/j.energy.2025.135744)]
+13\. **Assessing Solar-to-PV Power Conversion Models: Physical, ML, and Hybrid Approaches Across Diverse Scales** [[PDF](https://doi.org/10.1016/j.energy.2025.135744)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Caixia Li, **Yuanyuan Xu**, Minglang Xie, Pengfei Zhang, Bohan Zhang, Bo Xiao, Sujun Zhang, Ziheng Liu, Wenjie Zhang, Xiaojing Hao
 
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 Energy Journal
 <p></p>  
 
-13\. **Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach** [[PDF](https://dl.acm.org/doi/10.1145/3696410.3714943)]
+12\. **Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach** [[PDF](https://dl.acm.org/doi/10.1145/3696410.3714943)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu<sup>#</sup>**, Xuemin Lin, Wenjie Zhang, Ying Zhang
 
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2025)
 <p></p>  
 
-12\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [[PDF](https://dl.acm.org/doi/10.1145/3690624.3709327)]
+11\. **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction** [[PDF](https://dl.acm.org/doi/10.1145/3690624.3709327)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xiwei Xu, Xuemin Lin
 
@@ -129,7 +129,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-11\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [[PDF](https://ieeexplore.ieee.org/document/10597745)]
+10\. **TimeSGN: Scalable and Effective Temporal Graph Neural Network** [[PDF](https://ieeexplore.ieee.org/document/10597745)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Maria Orlowska, Xuemin Lin
 
@@ -137,7 +137,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-10\. **Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry** [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)]
+9\. **Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry** [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528375)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Xiwei Xu, Binghao Li, Ying Zhang
 
@@ -145,7 +145,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-9\. **Query2gmm: Learning representation with Gaussian mixture model for reasoning over knowledge graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)]
+8\. **Query2gmm: Learning representation with Gaussian mixture model for reasoning over knowledge graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645569)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yuhan Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Xiwei Xu, Ying Zhang
 
@@ -153,7 +153,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-8\. **Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach** [[PDF](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)]
+7\. **Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach** [[PDF](https://dl.acm.org/doi/pdf/10.14778/3626292.3626300)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Xueyi Wu\*, **Yuanyuan Xu\***, Wenjie Zhang, Ying Zhang
 
@@ -161,7 +161,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-7\. **A Holistic Approach for Answering Logical Queries on Knowledge Graphs** [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184571)]
+6\. **A Holistic Approach for Answering Logical Queries on Knowledge Graphs** [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184571)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Yuhan Wu\*, **Yuanyuan Xu\***, Xuemin Lin, Wenjie Zhang
 
@@ -169,7 +169,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-6\. **Class-aware tiny object recognition over large-scale 3D point clouds**
+5\. **Class-aware tiny object recognition over large-scale 3D point clouds**
 
    &nbsp;&nbsp;&nbsp;&nbsp; Jialin Li, Sarp Saydam, **Yuanyuan Xu**, Boge Liu, Binghao Li, Xuemin Lin, Wenjie Zhang
 
@@ -177,7 +177,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-5\. **Learning Accurate Label-Specific Features From Partially Multilabeled Data**
+4\. **Learning Accurate Label-Specific Features From Partially Multilabeled Data**
 
    &nbsp;&nbsp;&nbsp;&nbsp; Tiantian Xu, **Yuanyuan Xu**, Shiyu Yang, Binghao Li, Wenjie Zhang
 
@@ -185,7 +185,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-4\. **Unsupervised cross-view feature selection on incomplete data**
+3\. **Unsupervised cross-view feature selection on incomplete data**
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Yu Yin, Jun Wang, Jinmao Wei, Jian Liu, Lina Yao, Wenjie Zhang
 
@@ -193,12 +193,6 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p>
 
-3\. **An effective multi-label feature selection model towards eliminating noisy features**
-
-&nbsp;&nbsp;&nbsp;&nbsp; Jun Wang, **Yuanyuan Xu**, Hengpeng Xu, Zhe Sun, Zhenglu Yang, Jinmao Wei
-
-&nbsp;&nbsp;&nbsp;&nbsp; 📍 Applied Sciences
-<p></p>
 
 2\. **To avoid the pitfall of missing labels in feature selection: A generative model gives the answer** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6127/5983)]
 
