@@ -63,7 +63,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
 
 
-19\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs**
+19\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3770855.3817610)]
     
    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu<sup>#</sup>**, Xuemin Lin, Ying Zhang
     
@@ -213,6 +213,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 # 💻 Academic Services
 ### Conference Organizer:
 -  Session Chair, ACM The Web Conference (WWW): 2026;
+-  Session Chair, ACM SIGKDD: 2026;
 -  Session Chair, Australasian Database Conference: 2025.
 
 ### Area Chair:
