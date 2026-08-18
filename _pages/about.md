@@ -84,7 +84,7 @@ My research interests include large dynamic graph processing, temporal graph neu
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2026)
 <p></p> 
 
-16\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [PDF]
+16\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [[PDF](https://www.vldb.org/pvldb/vol19/p862-xu.pdf)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Danni Wu\*, **Yuanyuan Xu\***, Xuemin Lin, Wenjie Zhang, Ying Zhang
    
