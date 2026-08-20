@@ -35,7 +35,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 # 🔥 News (2026 Onwards)
 
 - *2026.07*: &nbsp; I will serve as an Area Chair for LoG 2026. 🌟🌟
-- *2026.06*: &nbsp; Our paper ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [arXiv](https://arxiv.org/abs/2608.18104). 🚀🚀 
+- *2026.06*: &nbsp; Our paper ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [arXiv](https://arxiv.org/abs/2608.18104). 🚀
 - *2026.05*: &nbsp; One paper is accepted to the SIGKDD 2026. 👏👏
 - *2026.01*: &nbsp; One paper is accepted to the Web Conference 2026. 👏👏
 - *2026.01*: &nbsp; Happy New Year! 🎊🎊
