@@ -251,6 +251,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 - KDD 2026 Best Reviewers [[Research](https://kdd2026.kdd.org/kdd-best-reviewers/)]
+- Award for Outstanding Overseas Study Elite
 - AAAI-26 Scholarship & Volunteer Award
 - University Nomination (Top 2) for Google PhD Fellowships 2025
 - KDD 2025 Student Travel Award
