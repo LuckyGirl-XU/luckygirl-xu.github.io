@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I am currently a PhD candidate at the University of New South Wales, supervised by Professor [Wenjie Zhang](https://cgi.cse.unsw.edu.au/~zhangw/), Professor [Xuemin Lin](https://www.acem.sjtu.edu.cn/en/faculty/linxuemin.html), and Professor [Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang).
+Welcome! I am currently a Postdoctoral Fellow at the University of New South Wales (UNSW). I completed my PhD at UNSW Sydney, supervised by Professor [Wenjie Zhang](https://cgi.cse.unsw.edu.au/~zhangw/), Professor [Xuemin Lin](https://www.acem.sjtu.edu.cn/en/faculty/linxuemin.html), and Professor [Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang). 
 
 My research interests include large dynamic graph processing, temporal graph neural networks, LLM for dynamic graphs, and multi-agent systems. 
 
