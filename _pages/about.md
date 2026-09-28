@@ -34,9 +34,10 @@ My research interests include large dynamic graph processing, temporal graph neu
 <span class='anchor' id='news'></span>
 # 🔥 News (2026 Onwards)
 
+- *2026.09*: &nbsp; Three papers are accepted to NeurIPS 2026. 👏👏
 - *2026.07*: &nbsp; I will serve as an Area Chair for LoG 2026. 🌟🌟
 - *2026.06*: &nbsp; Our paper ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [arXiv](https://arxiv.org/abs/2608.18104). 🚀
-- *2026.05*: &nbsp; One paper is accepted to the SIGKDD 2026. 👏👏
+- *2026.05*: &nbsp; One paper is accepted to SIGKDD 2026. 👏👏
 - *2026.01*: &nbsp; One paper is accepted to the Web Conference 2026. 👏👏
 - *2026.01*: &nbsp; Happy New Year! 🎊🎊
 <!--- *2025.12*: &nbsp; One paper is accepted to the VLDB 2026. 👏👏 -->
@@ -63,18 +64,40 @@ My research interests include large dynamic graph processing, temporal graph neu
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
 
 
-19\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3770855.3817610)]
+21\. **A New Perspective on Target-Conditioned Structural Dynamics for Link Prediction in Dynamic Graphs** 
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Yin Chen, Yingxuan Li, Wenjie Zhang, Xuemin Lin, Ying Zhang
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 NeurIPS 2026
+
+ <p></p>   
+ 
+
+20\. **Long-Horizon Agency Belongs in the Harness, Not the Context Window Only** 
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; Yi Han\*, **Yuanyuan Xu\***, Jusheng Zhang, Wenhao Wang
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 NeurIPS 2026 Position Paper Track
+
+ <p></p>   
+ 
+
+19\. **TRACE: Tourism Recommendation with Accountable Citation Evidence** 
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; Zixu Zhao, Sijin Wang, Yu Hou, **Yuanyuan Xu**, Yufan Sheng, Xike Xie, Wenjie Zhang, Won-Yong Shin, Xin Cao
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 NeurIPS 2026 Evaluations and Datasets Track 
+
+ <p></p>   
+ 
+
+18\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3770855.3817610)]
     
    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu<sup>#</sup>**, Xuemin Lin, Ying Zhang
     
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
-<p></p> 
 
-18\. **Temporal Bipartite Graph Representation Learning for Behavior Anomaly Detection**
-    
-   &nbsp;&nbsp;&nbsp;&nbsp; Yu Kong, **Yuanyuan Xu<sup>#</sup>**, Dong Wen, Yu Zhang, Binghao Li, and Wenjie Zhang
-    
-   &nbsp;&nbsp;&nbsp;&nbsp; 📍 FLINS-ISKE 2026 
+
 <p></p> 
 
 17\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
