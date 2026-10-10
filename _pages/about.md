@@ -64,7 +64,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
 
 
-21\. **A New Perspective on Target-Conditioned Structural Dynamics for Link Prediction in Dynamic Graphs** 
+22\. **A New Perspective on Target-Conditioned Structural Dynamics for Link Prediction in Dynamic Graphs** 
     
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Yin Chen, Yingxuan Li, Wenjie Zhang, Xuemin Lin, Ying Zhang
     
@@ -73,7 +73,7 @@ My research interests include large dynamic graph processing, temporal graph neu
  <p></p>   
  
 
-20\. **Long-Horizon Agency Belongs in the Harness, Not the Context Window Only** 
+21\. **Long-Horizon Agency Belongs in the Harness, Not the Context Window Only** 
     
    &nbsp;&nbsp;&nbsp;&nbsp; Yi Han\*, **Yuanyuan Xu\***, Jusheng Zhang, Wenhao Wang
     
@@ -82,7 +82,7 @@ My research interests include large dynamic graph processing, temporal graph neu
  <p></p>   
  
 
-19\. **TRACE: Tourism Recommendation with Accountable Citation Evidence** 
+20\. **TRACE: Tourism Recommendation with Accountable Citation Evidence** 
     
    &nbsp;&nbsp;&nbsp;&nbsp; Zixu Zhao, Sijin Wang, Yu Hou, **Yuanyuan Xu**, Yufan Sheng, Xike Xie, Wenjie Zhang, Won-Yong Shin, Xin Cao
     
@@ -91,7 +91,7 @@ My research interests include large dynamic graph processing, temporal graph neu
  <p></p>   
  
 
-18\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3770855.3817610)]
+19\. **Mitigating Anomaly Hallucination: A Model-Agnostic Framework for Unsupervised Anomaly Detection on Dynamic Graphs** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3770855.3817610)]
     
    &nbsp;&nbsp;&nbsp;&nbsp; Yingxuan Li, **Yuanyuan Xu<sup>#</sup>**, Xuemin Lin, Ying Zhang
     
@@ -100,27 +100,33 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 <p></p> 
 
-17\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
+18\. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering** [[PDF](https://dl.acm.org/doi/10.1145/3774904.3792101)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Danni Wu, Xuemin Lin, Dong Wen, Wenjie Zhang, Lei Chen, Ying Zhang
    
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 The Web Conference (WWW 2026)
 <p></p> 
 
-16\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [[PDF](https://www.vldb.org/pvldb/vol19/p862-xu.pdf)]
+17\. **Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation** [[PDF](https://www.vldb.org/pvldb/vol19/p862-xu.pdf)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; Danni Wu\*, **Yuanyuan Xu\***, Xuemin Lin, Wenjie Zhang, Ying Zhang
    
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 Proceedings of the VLDB Endowment (VLDB 2026) 
 <p></p> 
 
-15\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/39956)]
+16\. **Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graph Representation** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/39956)]
 
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Wenjie Zhang, Ying Zhang, Xuemin Lin, Xiwei Xu
    
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 Annual AAAI Conference on Artificial Intelligence (AAAI 2026) &nbsp;&nbsp; 💡 <u><font color="purple">Oral, Top 4%</font></u>
 <p></p> 
 
+
+15\. **Temporal Bipartite Graph Representation Learning for Behavior Anomaly Detection**
+   &nbsp;&nbsp;&nbsp;&nbsp; Yu Kong, **Yuanyuan Xu<sup>#</sup>**, Dong Wen, Yu Zhang, Binghao Li, Wenjie Zhang
+   
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 FLINS--ISKE 2026
+<p></p> 
 
 14\. **UniDyG: A Unified and Effective Representation Learning Approach for Large Dynamic Graphs** [[PDF](https://ieeexplore.ieee.org/document/10981615)]
 
