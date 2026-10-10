@@ -123,6 +123,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 
 15\. **Temporal Bipartite Graph Representation Learning for Behavior Anomaly Detection**
+
    &nbsp;&nbsp;&nbsp;&nbsp; Yu Kong, **Yuanyuan Xu<sup>#</sup>**, Dong Wen, Yu Zhang, Binghao Li, Wenjie Zhang
    
    &nbsp;&nbsp;&nbsp;&nbsp; 📍 FLINS--ISKE 2026
