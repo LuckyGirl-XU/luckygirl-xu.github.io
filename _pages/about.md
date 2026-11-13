@@ -34,6 +34,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <span class='anchor' id='news'></span>
 # 🔥 News (2026 Onwards)
 
+- *2026.11*: &nbsp; One paper is accepted to SIGKDD 2027. 👏👏
 - *2026.09*: &nbsp; Three papers are accepted to NeurIPS 2026. 👏👏
 - *2026.07*: &nbsp; I will serve as an Area Chair for LoG 2026. 🌟🌟
 - *2026.06*: &nbsp; Our paper ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [arXiv](https://arxiv.org/abs/2608.18104). 🚀
@@ -64,6 +65,15 @@ My research interests include large dynamic graph processing, temporal graph neu
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
 
 
+22\. **Beyond Isolation: Harmonizing State and Behavior Dynamics for Semi-Supervised Anomaly Detection on Dynamic Graphs** 
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; Yin Chen, **Yuanyuan Xu<sup>#</sup>**, Xiaoyang Wang, Wenjie Zhang, Qin Lu, Ying Zhang
+    
+   &nbsp;&nbsp;&nbsp;&nbsp; 📍 KDD 2027
+
+ <p></p>  
+
+ 
 22\. **A New Perspective on Target-Conditioned Structural Dynamics for Link Prediction in Dynamic Graphs** 
     
    &nbsp;&nbsp;&nbsp;&nbsp; **Yuanyuan Xu**, Yin Chen, Yingxuan Li, Wenjie Zhang, Xuemin Lin, Ying Zhang
