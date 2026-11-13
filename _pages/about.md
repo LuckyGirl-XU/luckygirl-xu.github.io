@@ -65,7 +65,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <code>&ast;: Co-first author; &#35;: Corresponding author.</code><u><code>&ast; and &#35; also denote the student I mentored.</code></u>
 
 
-22\. **Beyond Isolation: Harmonizing State and Behavior Dynamics for Semi-Supervised Anomaly Detection on Dynamic Graphs** 
+23\. **Beyond Isolation: Harmonizing State and Behavior Dynamics for Semi-Supervised Anomaly Detection on Dynamic Graphs** 
     
    &nbsp;&nbsp;&nbsp;&nbsp; Yin Chen, **Yuanyuan Xu<sup>#</sup>**, Xiaoyang Wang, Wenjie Zhang, Qin Lu, Ying Zhang
     
