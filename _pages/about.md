@@ -36,6 +36,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 
 - *2026.11*: &nbsp; I was recognized as one of the Top Area Chairs for the Learning on Graphs Conference 2026. 🎉🎉
 - *2026.11*: &nbsp; One paper is accepted to SIGKDD 2027. 👏👏
+- *2026.10*: &nbsp; I have received research support through OpenAI’s ChatGPT for Academic Researchers program
 - *2026.09*: &nbsp; Three papers are accepted to NeurIPS 2026. 👏👏
 - *2026.07*: &nbsp; I will serve as an Area Chair for LoG 2026. 🌟🌟
 - *2026.06*: &nbsp; Our paper ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [arXiv](https://arxiv.org/abs/2608.18104). 🚀
@@ -292,6 +293,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 - Top Area Chairs @ Learning on Graphs Conference 2026
+- OpenAI ChatGPT for Academic Researchers
 - Top Reviewer @ NeurIPS 2026
 - KDD 2026 Best Reviewers [[Research](https://kdd2026.kdd.org/kdd-best-reviewers/)]
 - Award for Outstanding Overseas Study Elite
