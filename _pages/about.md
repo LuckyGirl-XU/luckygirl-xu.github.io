@@ -260,7 +260,8 @@ My research interests include large dynamic graph processing, temporal graph neu
 -  Session Chair, Australasian Database Conference: 2025.
 
 ### Area Chair:
-- Learning on Graphs Conference: 2026, DASFAA 2027.
+- Learning on Graphs Conference: 2026
+- DASFAA 2027
   
 ### Program Committee Member:
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025, 2026;
