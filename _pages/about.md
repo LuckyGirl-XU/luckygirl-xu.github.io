@@ -34,6 +34,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 <span class='anchor' id='news'></span>
 # 🔥 News (2026 Onwards)
 
+- *2026.11*: &nbsp; I will serve as an Area Chair for DASFAA 2027. 🌟🌟
 - *2026.11*: &nbsp; I was recognized as one of the Top Area Chairs for the Learning on Graphs Conference 2026. 🎉🎉
 - *2026.11*: &nbsp; One paper is accepted to SIGKDD 2027. 👏👏
 - *2026.10*: &nbsp; I have received research support through OpenAI’s ChatGPT for Academic Researchers program. 🎉🎉
@@ -259,7 +260,7 @@ My research interests include large dynamic graph processing, temporal graph neu
 -  Session Chair, Australasian Database Conference: 2025.
 
 ### Area Chair:
-- Learning on Graphs Conference: 2026.
+- Learning on Graphs Conference: 2026, DASFAA 2027.
   
 ### Program Committee Member:
 -  Annual Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025, 2026;
